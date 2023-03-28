@@ -23,7 +23,10 @@ h1 {
   grid-template-columns: 1fr 1fr;
   grid-gap: 10px;
   width: 100%;
-  margin: 25px auto 40px;
+  margin-top:25px;
+  margin-left: 20px;
+  column-gap:20px;
+  row-gap: 30px;
   list-style: none;
 }
 
